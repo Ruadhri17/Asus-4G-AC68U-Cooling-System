@@ -43,4 +43,4 @@ To read temperature, raspberry pi needs access to router. To do that, we need to
 
 At the end it should look like this:
 
-<p align="center"><img src="https://postimg.cc/K1xTGC8m" width="500"></p>
+<p align="center"><img src="https://i.postimg.cc/VkbWR8y0/1.png" width="500"></p>
