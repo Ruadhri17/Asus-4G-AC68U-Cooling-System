@@ -5,7 +5,7 @@ As Asus 4G Routers tends to lose connection during heavy work due to high temper
 ## Table of Contents
 
 * [Components](#Components)
-* [Fan Schematic](#Fan-scheme)
+* [Fan Scheme](#Fan-scheme)
 * [How to prepare Raspberry Pi Zero](#How-to-prepare-Raspberry-Pi-Zero)
 * [How to prepare router](#How-to-prepare-router)
 * [Raspberry Pi case](#Raspberry-Pi-case)
