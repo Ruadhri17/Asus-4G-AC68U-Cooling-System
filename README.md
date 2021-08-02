@@ -42,4 +42,5 @@ To read temperature, raspberry pi needs access to router. To do that, we need to
 * Go to Administration -> System -> Service and enable SSH by LAN only. You can set your own port or even use authorized key, it is up to you. Set Idle timeout to 0.
 
 At the end it should look like this:
-[![1.png](https://i.postimg.cc/VkbWR8y0/1.png)](https://postimg.cc/K1xTGC8m)
+
+<p align="center"><img src="https://postimg.cc/K1xTGC8m" width="500"></p>
