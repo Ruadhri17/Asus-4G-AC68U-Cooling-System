@@ -5,7 +5,7 @@ As Asus 4G Routers tends to lose connection during heavy work due to high temper
 ## Table of Contents
 
 * [Components](#Components)
-* [Fan Scheme](#Fan-scheme)
+* [KiCad Scheme](#Fan-scheme)
 * [How to prepare Raspberry Pi Zero](#How-to-prepare-Raspberry-Pi-Zero)
 * [How to prepare router](#How-to-prepare-router)
 * [Raspberry Pi case](#Raspberry-Pi-case)
@@ -20,7 +20,7 @@ As Asus 4G Routers tends to lose connection during heavy work due to high temper
 * N-MOSFET IRLZ44N 
 * Raspberry Pi Case (optional) 
 * 4 x M2.5 spacer bolts + 4 x M2.5 4-mm screws + 4 x M2.5 9-mm screws   
-## Fan scheme 
+## KiCad scheme 
 
 <p align="center"><img src="https://i.postimg.cc/4xgVGh7w/Fan-System-1.png" width="800"></p>
 
@@ -49,6 +49,6 @@ At the end it should look like this:
 
 ## Raspberry Pi case 
 
-I prepare case in fusion 360. You can print it by yourself or use 3D printing service. I am not professional case designer, I took huge inspiration from this [video](https://www.youtube.com/watch?v=E0NVC8xhf3I) and added holes for fans cables and oled screen. On top there are small holes for two hooks which are printed separately. You should glue them to the case. Hooks are supposed to fit into router's top vents. If you feel that case does not keep stable you can use double-sided tape. Below you can find render of the case:
+I prepare case in fusion 360. You can print it by yourself or use 3D printing service. I am not professional case designer, I took huge inspiration from this [video](https://www.youtube.com/watch?v=E0NVC8xhf3I) and added holes for fans' cables and oled screen. On top there are small holes for two hooks which are printed separately. You should glue them to the case. Hooks are supposed to fit into router's top vents. If you feel that case does not keep stable you can use double-sided tape. Below you can find render of the case:
 
 <p align="center"><img src="https://i.postimg.cc/JzyXbVDD/Case.png" width="800"></p>
