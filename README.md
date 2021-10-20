@@ -41,8 +41,7 @@ Now you can place **tempController.py** in home directory and edit **rc.local** 
 To read temperature, raspberry pi needs access to router. To do that, we need to enable SSH service:
 * Go to your router site (By default it is 192.168.1.1, however you can check  deafult gateway in **ipconfig** instruction (Windows CMD) or **ifconfig** (Linux terminal).
 * Log into user interface (Your login credentials are located on the back of the router, typically both login and password are set to "admin").
-* Go to Administration -> System -> Service and enable SSH by LAN only. You can set your own port or even use authorized key, it is up to you. Set Idle timeout to 0.
-
+* Go to Administration -> System -> Service and enable SSH by LAN only. You can set your own port or even use authorized key, it is up to you (EDIT: with current update (for 20.10.2021) it is advisable to stay with port 22, as dropbear service is broken and with other ports it will be impossible to recover its work). Set Idle timeout to 0.
 At the end it should look like this:
 
 <p align="center"><img src="https://i.postimg.cc/VkbWR8y0/1.png" width="800"></p>
