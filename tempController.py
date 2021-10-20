@@ -15,7 +15,7 @@ def main():
         router_ip = "192.168.1.1"
         router_port = 22
         router_username = "admin"
-        router_password = "00000000"
+        router_password = "admin"
 
         # Fan Info #
         fan = LED(16) # Enter pin used to control fan
