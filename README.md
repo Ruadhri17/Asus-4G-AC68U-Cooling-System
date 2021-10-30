@@ -14,7 +14,7 @@ As Asus 4G Routers tends to lose connection during heavy work due to high temper
 
 * 4 x 40 mm 5V fans 
 * Raspberry Pi Zero WH + SD Card + USB Cable - to control temperature and turn on fans when needed
-* Adafruit PiOLED Screen - to display temperature, fans state and connection status. (not yet implemented)
+* Adafruit PiOLED Screen - to display temperature, fans state and connection status.
 * BreakOut Pi Zero - to install all needed components
 * 1 x diode 
 * N-MOSFET IRLZ44N 
