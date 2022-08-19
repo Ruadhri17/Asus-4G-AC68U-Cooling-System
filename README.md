@@ -46,8 +46,8 @@ At the end it should look like this:
 
 <p align="center"><img src="https://i.postimg.cc/VkbWR8y0/1.png" width="800"></p>
 
-## Raspberry Pi case 
+## Raspberry Pi case (Deprecated)
 
-I prepare case in fusion 360. You can print it by yourself or use 3D printing service. I am not professional case designer, I took huge inspiration from this [video](https://www.youtube.com/watch?v=E0NVC8xhf3I) and added holes for fans' cables and oled screen. On top there are small holes for two hooks which are printed separately. You should glue them to the case. Hooks are supposed to fit into router's top vents. If you feel that case does not keep stable you can use double-sided tape. Below you can find render of the case:
+~~I prepare case in fusion 360. You can print it by yourself or use 3D printing service. I am not professional case designer, I took huge inspiration from this [video](https://www.youtube.com/watch?v=E0NVC8xhf3I) and added holes for fans' cables and oled screen. On top there are small holes for two hooks which are printed separately. You should glue them to the case. Hooks are supposed to fit into router's top vents. If you feel that case does not keep stable you can use double-sided tape. Below you can find render of the case:~~
 
 <p align="center"><img src="https://i.postimg.cc/JzyXbVDD/Case.png" width="800"></p>
